@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+3,2021-01-01 11:08:00,NIFTY07JAN2114000CE,127.55,121.7,75,-1,438.74999999999955,0,132.5,Low,High,14001.15,Low,True,1000,True,VolPattern

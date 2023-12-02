@@ -1,0 +1,19 @@
+Top winning streaks
+1) No. of Trades: 414 Start Date - End Date: 2020-08-03 12:33:00 - 2021-02-23 11:38:00 Pnl of Streak: 1100673.75
+2) No. of Trades: 154 Start Date - End Date: 2020-08-03 12:33:00 - 2021-02-23 10:35:00 Pnl of Streak: 419081.25
+3) No. of Trades: 23 Start Date - End Date: 2020-08-11 12:04:00 - 2021-02-17 11:10:00 Pnl of Streak: 56980.00
+4) No. of Trades: 3 Start Date - End Date: 2020-10-28 12:26:00 - 2021-02-11 12:31:00 Pnl of Streak: 8905.00
+
+Top losing streaks
+1) No. of Trades: 547 Start Date - End Date: 2020-08-03 10:16:00 - 2021-02-23 10:05:00 Pnl of Streak: -453552.50
+2) No. of Trades: 292 Start Date - End Date: 2020-08-03 10:16:00 - 2021-02-23 10:01:00 Pnl of Streak: -230635.00
+3) No. of Trades: 161 Start Date - End Date: 2020-08-03 10:34:00 - 2021-02-19 10:10:00 Pnl of Streak: -103888.75
+4) No. of Trades: 86 Start Date - End Date: 2020-08-06 12:02:00 - 2021-02-18 11:19:00 Pnl of Streak: -58756.25
+5) No. of Trades: 43 Start Date - End Date: 2020-08-11 12:03:00 - 2021-02-15 13:01:00 Pnl of Streak: -29480.00
+6) No. of Trades: 25 Start Date - End Date: 2020-08-11 15:01:00 - 2021-02-17 11:05:00 Pnl of Streak: -16407.50
+7) No. of Trades: 13 Start Date - End Date: 2020-08-13 10:13:00 - 2021-02-11 14:24:00 Pnl of Streak: -8717.50
+8) No. of Trades: 8 Start Date - End Date: 2020-08-13 11:38:00 - 2021-02-11 14:24:00 Pnl of Streak: -4740.00
+9) No. of Trades: 4 Start Date - End Date: 2020-08-13 11:38:00 - 2020-11-12 12:16:00 Pnl of Streak: -2742.50
+10) No. of Trades: 1 Start Date - End Date: 2020-11-12 12:20:00 - 2020-11-12 12:20:00 Pnl of Streak: -866.25
+11) No. of Trades: 1 Start Date - End Date: 2020-11-12 12:46:00 - 2020-11-12 12:46:00 Pnl of Streak: -693.75
+12) No. of Trades: 1 Start Date - End Date: 2020-11-12 12:36:00 - 2020-11-12 12:36:00 Pnl of Streak: -551.25

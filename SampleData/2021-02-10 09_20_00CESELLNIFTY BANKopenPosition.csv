@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+0,2021-02-10 09:23:00,BANKNIFTY11FEB2135900CE,412.34999999999997,266.75,25,-1,3639.999999999999,0,528.9,Low,High,35950.45,Low,True,0.0,True,VolPattern

@@ -1,0 +1,2 @@
+,Key,ExitTime,Symbol,EntryPrice,ExitPrice,Quantity,Pnl,ExitType,SignalType
+0,2020-11-18 11:00:00,2020-11-18 11:20:00,NIFTY19NOV2012800CE,98.4,70.95,-75,2058.75,Target hit,VolPattern

@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+1,2020-10-15 09:56:00,NIFTY15OCT2011900CE,68.10000000000001,45.85,75,-1,1668.7500000000005,0,90.1,Low,High,11906.35,Low,True,0.0,True,VolPattern

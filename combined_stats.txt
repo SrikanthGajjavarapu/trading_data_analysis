@@ -1,0 +1,6 @@
+Total trades: 1776
+Unique days: 141
+Average trades: 12.60
+Total Pnl: 674608.75
+Profit Trades: 594
+Loss Trades: 1182

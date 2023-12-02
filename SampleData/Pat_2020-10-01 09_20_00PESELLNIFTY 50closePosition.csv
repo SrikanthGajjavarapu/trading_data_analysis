@@ -1,0 +1,2 @@
+,Key,ExitTime,Symbol,EntryPrice,ExitPrice,Quantity,Pnl,ExitType,SignalType
+0,2020-10-01 09:20:00,2020-10-01 10:42:00,NIFTY01OCT2011400PE,55.650000000000006,22.2,-75,2508.75,Target hit,VolPattern

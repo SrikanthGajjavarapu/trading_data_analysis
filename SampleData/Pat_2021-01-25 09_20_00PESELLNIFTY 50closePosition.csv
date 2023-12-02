@@ -1,0 +1,2 @@
+,Key,ExitTime,Symbol,EntryPrice,ExitPrice,Quantity,Pnl,ExitType,SignalType
+0,2021-01-25 10:00:00,2021-01-25 10:05:00,NIFTY28JAN2114350PE,131.95,102.25,-75,2227.499999999999,Target hit,VolPattern

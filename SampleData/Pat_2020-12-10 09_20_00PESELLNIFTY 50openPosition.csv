@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+0,2020-12-10 10:11:00,NIFTY10DEC2013450PE,60.25,17.25,75,-1,3225.0,0,69.1,Low,High,13483.4,High,True,750,True,VolPattern

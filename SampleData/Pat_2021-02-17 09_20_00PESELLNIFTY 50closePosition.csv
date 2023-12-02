@@ -1,0 +1,2 @@
+,Key,ExitTime,Symbol,EntryPrice,ExitPrice,Quantity,Pnl,ExitType,SignalType
+0,2021-02-17 11:00:00,2021-02-17 11:10:00,NIFTY18FEB2115300PE,85.95,62.8,-75,1736.2500000000005,Target hit,VolPattern

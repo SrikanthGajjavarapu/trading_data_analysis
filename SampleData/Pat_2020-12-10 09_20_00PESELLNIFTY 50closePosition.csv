@@ -1,0 +1,2 @@
+,Key,ExitTime,Symbol,EntryPrice,ExitPrice,Quantity,Pnl,ExitType,SignalType
+0,2020-12-10 10:11:00,2020-12-10 14:31:00,NIFTY10DEC2013450PE,60.25,12.5,-75,3581.25,Target hit,VolPattern

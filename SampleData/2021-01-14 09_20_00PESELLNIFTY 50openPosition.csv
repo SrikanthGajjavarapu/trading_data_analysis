@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+1,2021-01-14 10:00:00,NIFTY14JAN2114550PE,57.550000000000004,41.75,75,-1,1185.0000000000002,0,75.0,Low,High,14562.8,High,True,0.0,True,VolPattern

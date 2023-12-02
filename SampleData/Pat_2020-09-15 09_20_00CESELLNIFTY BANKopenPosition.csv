@@ -1,0 +1,2 @@
+,Key,Symbol,EntryPrice,CurrentPrice,Quantity,PositionStatus,Pnl,TargetPrice,SlPrice,TargetKey,SlKey,BreakEvenPrice,BreakEvenKey,PreSlExit,MinReqPnl,MainCheck,SignalType
+3,2020-09-15 13:10:00,BANKNIFTY17SEP2022200CE,332.25,329.0,25,-1,81.25,0,355.95,Low,High,22062.35,Low,True,1000.0,True,VolPattern
