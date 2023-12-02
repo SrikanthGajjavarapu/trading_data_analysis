@@ -34,4 +34,5 @@ Usage
 Place your CSV files in the 'SampleData/' directory.
 Ensure that the required libraries (pandas and glob) are installed.
 Run the script.
+
 Note: The script assumes well-formatted CSV files with the specified column names. Adjustments may be needed based on the actual structure of your trading data.# trading_data_analysis
